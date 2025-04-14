@@ -1,0 +1,135 @@
+body{
+    background-color: rgb(22, 22, 22);
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    
+}
+#menu{
+    border: solid 2px black;
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    background-image: url(https://media1.tenor.com/m/8ctGtM0JDmUAAAAC/marvel-avengers.gif);
+    width: 1740px;
+    text-align: center;
+    margin: auto;
+    border-radius: 70px;
+    
+}
+#menu a{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    font-weight: 900;
+    padding: 5px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#menu a:hover{
+    color: white;
+    font-size: 25px;
+    transition: 1s;
+}
+.herois{
+    border: solid 3px rgb(0, 0, 0);
+    min-height: 100vh;
+    width: 90vw;
+    margin: auto;
+    border-radius: 100px;
+}
+#homemferro{
+    background-image: url(https://wallpaper.forfun.com/fetch/47/47863baa38d61093a7d6c288adc53163.jpeg);
+}
+#homemferro img{
+    display: block;
+    margin: auto;
+    width: 35vw;
+    height: 40vw;
+}
+#homemferro h2{
+    text-align: center;
+    font-size: 40px;
+}
+#capitaoamerica{
+    background-image: url(https://wallpapers.com/images/hd/captain-america-shield-on-blue-background-jazjytadxjnq8l90.jpg);
+}
+#capitaoamerica img{
+    display: block;
+    margin: auto;
+    width: 45vw;
+    height: 40vw;
+}
+#capitaoamerica h2{
+    text-align: center;
+    font-size: 40px;
+}
+#thor{
+    background-image: url(https://cdn.steamstatic.com/steamcommunity/public/images/items/323580/8c615aab532d536b1e9be0e34bcd8a6a4e114cb2.jpg);
+}
+#thor img{
+    display: block;
+    margin: auto;
+    width: 35vw;
+    height: 40vw;
+}
+#thor h2{
+    text-align: center;
+    font-size: 40px;
+    
+}
+#hulk{
+   background-image: url(https://wallpapers.com/images/hd/hulk-head-green-background-58g3oqape8br7myd.jpg)
+}
+#hulk img{
+    display: block;
+    margin: auto;
+    width: 40vw;
+    height: 43vw;
+}
+#hulk h2{
+    text-align: center;
+    font-size: 40px;
+    
+}
+#homemaranha{
+    background-image: url(https://images.unsplash.com/photo-1568535904307-f48b760a39f3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGV4dHVyYSUyMHZlcm1lbGhhfGVufDB8fDB8fHww);
+}
+#homemaranha img{
+    display: block;
+    margin: auto;
+    width: 35vw;
+    height: 40vw;
+}
+#homemaranha h2{
+    text-align: center;
+    font-size: 40px;
+    
+}
+#loki{
+   background-image: url(https://wallpapers.com/images/hd/loki-in-aesthetic-black-3stwkla3rb2a08pj.jpg);
+}
+#loki img{
+    display: block;
+    margin: auto;
+    width: 35vw;
+    height: 40vw;
+}
+#loki h2{
+    text-align: center;
+    font-size: 40px;
+    
+}
+h2{
+    color: white;
+}
+img{
+    border-radius: 30px;
+}
+
